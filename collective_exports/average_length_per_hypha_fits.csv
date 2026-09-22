@@ -1,0 +1,4 @@
+dataset,display_label,model,a,b,c,equation,r_squared,metric,ylabel
+Mn_deficient,MDM,y = a*exp(b*x) + c,229075.1688277623,4.392775449580752e-05,-229075.49158314872,y = 229075*exp(4.39278e-05*x) + -229075,0.9457430109636937,Average Length Per Hypha,Length (µm/no. of hyphae)
+Minimal_media,MM,y = a*exp(b*x) + c,0.5945648117863876,0.4976487118459331,1.3751586952497075,y = 0.594565*exp(0.497649*x) + 1.37516,0.8836920327789615,Average Length Per Hypha,Length (µm/no. of hyphae)
+Mn_sufficient,MSM,y = a*exp(b*x) + c,289720.2476033421,6.564286403040314e-05,-289728.08309311717,y = 289720*exp(6.56429e-05*x) + -289728,0.9738436813333892,Average Length Per Hypha,Length (µm/no. of hyphae)

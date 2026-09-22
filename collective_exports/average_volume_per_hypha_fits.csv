@@ -1,0 +1,4 @@
+dataset,display_label,model,a,b,c,equation,r_squared,metric,ylabel
+Mn_deficient,MDM,y = a*exp(b*x) + c,1146252.6131436608,5.6097725973081545e-05,-1146276.3654404953,y = 1.14625e+06*exp(5.60977e-05*x) + -1.14628e+06,0.9765861336894238,Average Hypha Volume Per Hypha,Volume (µm³/no. of hyphae)
+Minimal_media,MM,y = a*exp(b*x) + c,1.2876877210573634,0.7817669018683717,17.680586201019576,y = 1.28769*exp(0.781767*x) + 17.6806,0.8997735201436547,Average Hypha Volume Per Hypha,Volume (µm³/no. of hyphae)
+Mn_sufficient,MSM,y = a*exp(b*x) + c,1959285.2942364383,4.6363103284084766e-05,-1959314.8795140474,y = 1.95929e+06*exp(4.63631e-05*x) + -1.95931e+06,0.9712930388197787,Average Hypha Volume Per Hypha,Volume (µm³/no. of hyphae)
