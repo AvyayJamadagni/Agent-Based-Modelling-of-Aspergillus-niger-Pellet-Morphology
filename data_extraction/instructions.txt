@@ -1,0 +1,1 @@
+When running the python file, please go into each folder and unzip the file. Copy the contents into the parent directory of the zip file.
